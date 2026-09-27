@@ -1,0 +1,12 @@
+void main() {
+  double p = 10000;
+  double t = 2;
+  double r = 5;
+
+  double SI = (p * t * r) / 100;
+
+  print("SI = $SI");
+
+
+  
+}
